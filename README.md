@@ -26,6 +26,12 @@ from matplotlib.patches import Polygon
 import cv2
 
 ```
-## Original Images
+## Original Image1
 ![Ploted JSON coordinates!](https://github.com/Ibadullah-Kahttana/Cancer-Image-Segmentation/assets/97878195/da564fab-ece4-4230-b951-6c107f668d3e)
-## Mask images
+## Mask image1
+![Mask Image!](https://github.com/Ibadullah-Kahttana/Cancer-Image-Segmentation/assets/97878195/c377b238-776e-449e-afe6-437f88d0222f)
+
+## Original Image2
+![Ploted JSON coordinates!](https://github.com/Ibadullah-Kahttana/Cancer-Image-Segmentation/assets/97878195/296dbaf4-74f0-408f-b77f-9579e3f1e35e)
+## Mask image2
+![Mask Image!](https://github.com/Ibadullah-Kahttana/Cancer-Image-Segmentation/assets/97878195/084e69dd-22d6-4ea9-86e1-4527b9cb02b4)
