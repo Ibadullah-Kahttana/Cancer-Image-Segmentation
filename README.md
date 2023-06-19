@@ -37,3 +37,6 @@ import cv2
 
 ## Mask image2
 ![Mask Image!](https://github.com/Ibadullah-Kahttana/Cancer-Image-Segmentation/assets/97878195/296dbaf4-74f0-408f-b77f-9579e3f1e35e)
+
+
+Thats how you will get the result from the code provided above by passing the original image with their corresponding JSON file
