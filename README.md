@@ -27,6 +27,5 @@ import cv2
 
 ```
 ## Original Images
-![Cancer Image!]()
-## Ploted JSON coordinates
+![Ploted JSON coordinates!](https://github.com/Ibadullah-Kahttana/Cancer-Image-Segmentation/assets/97878195/da564fab-ece4-4230-b951-6c107f668d3e)
 ## Mask images
